@@ -1,0 +1,4 @@
+interface:
+  display_name: "Markdown 思维导图"
+  short_description: "将文章提炼为 3–7 层 Markdown 缩进思维导图，忠于原文且不编造"
+  default_prompt: "使用 $make-markdown-mindmap 将我粘贴的文章或本地 Markdown/TXT 文件整理成 Markdown 思维导图。"
